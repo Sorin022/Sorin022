@@ -8,7 +8,7 @@ Skills:
 
 2) Professent in progamming languages: c++, python, java, javascript, html, css, and php. All viewable on my github page.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sorin022)](https://github.com/Sorin022/github-readme-stats)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorin022&theme=tokyonight)
 
 3) I also have experience with both noSQL databases, for example, json files, as well as sql databases, for example, MYSQL.
 
