@@ -6,7 +6,7 @@ Skills:
 
 1) Web development, deployment, and mangment.
 
-2) Professent in progamming languages: c++, python, java, javascript, html, css, and php.
+2) Professent in progamming languages: c++, python, java, javascript, html, css, and php. All viewable on my github page.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sorin022)](https://github.com/Sorin022/github-readme-stats)
 
